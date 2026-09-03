@@ -13,7 +13,7 @@
 
 <!-- Add your dashboard screenshot below. Export it from Power BI Desktop (File > Export > Export to Image, or a simple screenshot) and save it as images/dashboard-preview.png in your repo. -->
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/nikhilsingh7874-alt/Starbucks-SQL-PowerBI-dashboard/blob/main/Screenshot%202026-09-03%20121156.png)
 
 *Replace the image above with a screenshot of your Power BI dashboard for the full effect.*
 
