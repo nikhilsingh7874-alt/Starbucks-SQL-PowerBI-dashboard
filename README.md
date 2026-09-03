@@ -139,8 +139,8 @@ This project strengthened practical skills in:
 
 Feel free to connect or reach out if you have feedback or questions about this project!
 
-- **LinkedIn:** [Add your LinkedIn profile link]
-- **Email:** [Add your email]
+- **LinkedIn:** [https://www.linkedin.com/in/nikhil-singh-48a676327/]
+- **Email:** [nikhilsingh7874@gmail.com]
 
 ---
 
